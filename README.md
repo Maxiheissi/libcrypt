@@ -1,2 +1,2 @@
 # libcrypt
-A library containing functions for ceaser-cypher and viginere-cypher.
+A repository containing files for encryption and decryption.
